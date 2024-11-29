@@ -20,7 +20,7 @@ The Todo Task Management App is a web application designed to help users manage 
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd ToDo-app
+   cd Full-Stack-To-Do-List-App
    ```
 
 2. **Install Backend Dependencies**
@@ -64,9 +64,9 @@ The Todo Task Management App is a web application designed to help users manage 
    npm start
    ```
    The frontend will be available at `http://localhost:3000`.
-
+   Else  The frontend will be available at `http://localhost:3001`.
 ## Usage
-- Open your web browser and navigate to `http://localhost:3000`.
+- Open your web browser and navigate to `http://localhost:3000` or `http://localhost:3001`.
 - Use the interface to add, edit, delete, sort, and filter tasks.
 
 ## Development
